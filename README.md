@@ -62,15 +62,6 @@ demo/           Sample data and demo script
 docs/           Design doc and reference material
 ```
 
-## Team
-
-| Name | Owns |
-|---|---|
-| Ravish | Model registry, task routing, agent orchestrator, RAG retrieval |
-| Sachin | Auth/RBAC, code sandbox, data layer (vector store + audit log) |
-| Harshit | OCR/vision extraction, document generation |
-| Aditya | Frontend dashboard |
-
 ## Getting Started
 
 Setup is not yet code-runnable end-to-end — see
